@@ -1,4 +1,5 @@
 # 🔨 Speech to Text 
+ ![alt text](https://github.com/hocineismail/speech-to-text/blob/main/public/example.png?raw=true)
 ## 📜 Description
 
 The  Speech-to-Text  Recorder project is a dynamic React application that enables users to record their speech and convert it into text. The application provides a user-friendly interface with features that allow users to start and stop recording, split recorded phrases, and generate a complete text from the recorded phrases.
@@ -31,8 +32,8 @@ To run program, run the following command.
 
 Use the terminal to execute the following commands:
 - Install Node.js.
-- Clone the GitHub repository.
-- Navigate to the project directory.
+- Clone the GitHub repository `git clone https://github.com/hocineismail/speech-to-text.git`.
+- Navigate to the project directory `cd speech-to-text`.
 - Run `npm install` or `yarn install` to install the dependencies.
 - Run `npm start` or `yarn start` to start the development server.
 - Open your browser and access the application at `http://localhost:3000`.
